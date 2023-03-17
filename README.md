@@ -1,5 +1,5 @@
 # pbot
-UB bsed on netfoll
+UB based on netfoll.
 For install use script.sh (in cinsole: bash script.sh) or 
 
 git clone https://github.com/primelogdev/pbot/ &&
